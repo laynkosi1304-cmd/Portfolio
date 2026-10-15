@@ -1,0 +1,13 @@
+{
+  "name": "Luyanda Nkosi | Software & Data Portfolio",
+  "short_name": "Luyanda Nkosi",
+  "description": "Software development, data management, systems analysis and digital solutions.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F7F5FF",
+  "theme_color": "#5B3DF5",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
